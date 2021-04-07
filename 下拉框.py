@@ -29,4 +29,3 @@ sleep(2)
 '''
 # 百度这首页中为下拉框在span里面，因此不能使用以上注释方法
 
-sel.find_element_by_link_text("每页50条").click()
